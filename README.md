@@ -14,7 +14,7 @@ Before that I managed a wastewater treatment plant, worked with sensor data as a
 | [toxic-comment-classification](https://github.com/pboric/toxic-comment-classification) | Multi-label detection of toxic comments with transformer models |
 | [age-gender-prediction](https://github.com/pboric/age-gender-prediction) | Multi-task deep learning model that predicts age and gender from face images, with bias mitigation |
 | [credit-risk-prediction](https://github.com/pboric/credit-risk-prediction) | Credit risk model (LightGBM, XGBoost, Optuna) deployed as a FastAPI service |
-| [concert-tour-rag-assistant](https://github.com/pboric/concert-tour-rag-assistant) | Question answering over documents with retrieval-augmented generation, a local LLaMA model and Streamlit |
+| [pm-sensor-correction](https://github.com/pboric/pm-sensor-correction) | Corrects low-cost PM sensors against EEA reference stations during Saharan dust, smoke and humid air (LightGBM + Copernicus CAMS); 40% lower PM10 error in dust episodes than the standard humidity correction |
 | [Machine-Failure-Prediction](https://github.com/pboric/Machine-Failure-Prediction) | Predicts machine failures from sensor data (PCA + Random Forest, 87.3% accuracy) |
 
 Full CV and all projects: [pboric.github.io/portfolio](https://pboric.github.io/portfolio/)
